@@ -1,108 +1,107 @@
-<!-- TOP WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
+<img align="center" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header"/>
 
-<h1 align="center">👋 Hi, I'm Surya Sivakumar</h1>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Surya Sivakumar</strong>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20%26%20Full-Stack%20Developer;CSE%20Undergraduate;Building%20Production-Ready%20Systems;AI%20%7C%20ML%20%7C%20Web%20Engineering;Turning%20Ideas%20into%20Deployed%20Products&center=true&width=900&height=45"/>
+<h3>Software & Full-Stack Developer | AI & ML Systems</h3>
+
+<div align="left">
+  <img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+  <p>
+    Software and Full-Stack Developer with hands-on experience building production-ready web and AI systems.
+    Strong in backend engineering, modern frontend interfaces, and applied machine learning.
+    I take products from idea → architecture → implementation → deployment.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/📍_Chennai,_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:surya3625a@gmail.com">
+      <img src="https://img.shields.io/badge/📧_surya3625a@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+
+<p align="left">
+  <a href="https://github.com/SuryaSivakumar111">
+    <img src="https://img.shields.io/badge/GitHub-SuryaSivakumar111-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/surya-sivakumar-0b5a6b329">
+    <img src="https://img.shields.io/badge/LinkedIn-Surya%20Sivakumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <b>Software & Full-Stack Developer</b><br/>
-  Computer Science and Engineering Student
-</p>
+<img src="https://komarev.com/ghpvc/?username=SuryaSivakumar111&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
----
-
-## 🚀 About Me
-
-- Software & full-stack developer who **builds, ships, and maintains real products**
-- Strong focus on **backend systems, APIs, databases, and AI-powered applications**
-- Experienced in taking ideas from **problem definition → system design → deployment**
-- I don’t just build demos — I build **production-grade systems**
-
----
-
-## 🧠 Experience & Training
-
-- **AI / ML Trainee (Project-Based)**
-  - Built end-to-end AI systems integrated with modern web applications
-  - Worked with ML pipelines, model evaluation, and deployment-ready architectures
-
-- Designed and implemented **multiple full-stack applications** with:
-  - Authentication
-  - REST APIs
-  - Databases
-  - Dashboards
-  - ML inference pipelines
+<br clear="all" />
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, Java, HTML, CSS  
-**Frontend:** React, Tailwind CSS  
-**Backend:** FastAPI, Flask  
-**Databases:** PostgreSQL, MySQL, SQLite, Supabase  
-**AI / ML:** PyTorch, scikit-learn, NLP, Computer Vision  
-**Tools:** Git, GitHub  
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,ts" />
+</td>
+
+<td width="50%" align="center">
+<h3>⚙️ Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,fastapi,flask,nodejs,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,supabase" />
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📌 Featured Projects
 
+### 🛡️ SentinelAI — AI Governance & Risk Monitoring
+- Full-stack platform to audit deployed ML systems
+- Bias detection, drift monitoring, explainability, and risk scoring
+- **Tech:** FastAPI, React, Python, SQLite
+
+### 🔍 TraceOn AI — Missing Person Identification
+- Face recognition system for images and videos
+- Backend APIs with FastAPI and a responsive frontend
+- **Tech:** Python, OpenCV, Deep Learning, React
+
 ### 💗 VibeCheck — AI Sentiment Analysis Platform
-- Full-stack ML system for **real-time sentiment analysis** of social media text
-- Classical ML pipeline using **TF-IDF + Logistic Regression**
-- Features batch CSV analysis, analytics dashboard, chatbot assistant, and history tracking
-- Built with **FastAPI backend** and **React (Vite) frontend**
+- Real-time sentiment analysis with analytics dashboard
+- Batch CSV processing, chatbot assistant, and ML pipeline
+- **Tech:** FastAPI, React, scikit-learn, NLP
 
 ### 🏥 MediVision AI — Medical Image Classification
-- Deep learning system for **chest X-ray diagnosis (Normal vs Pneumonia)**
-- Custom **MediVisionNet** architecture:
-  - EfficientNet-B0 backbone
-  - SE blocks + CBAM attention
-- Includes confidence scoring, PDF reports, metrics dashboard, and cloud-ready ONNX export
-- Built with **PyTorch + Flask**, production-oriented design
-
-### 🛡️ SentinelAI — AI Governance & Risk Monitoring
-- Platform for auditing and monitoring deployed ML systems
-- Tracks model health, risk indicators, and system reliability
-- FastAPI backend with React-based dashboard
-
-### 🔍 TraceOn AI — Missing Person Identification System
-- Face recognition system for identifying individuals in images and videos
-- Backend ML inference services with FastAPI
-- Integrated responsive frontend for real-world usage
-
-➡️ *More production-grade systems under active development*
+- Deep learning system for chest X-ray diagnosis
+- Custom CNN with EfficientNet, SE blocks, and CBAM attention
+- **Tech:** PyTorch, Flask, CNNs, Computer Vision
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuryaSivakumar111&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaSivakumar111&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=SuryaSivakumar111&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -111,20 +110,11 @@
 
 ---
 
-## 👨‍💻 In Action
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90Z2F5dTR1M2I3N3V1ZWQxYjE2b2Y0Y2p3NnNqMGNnZWN6d3l6ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="360"/>
-</p>
-
-<sub align="center">Designing • Building • Shipping</sub>
+## 🚀 What I Build
+- End-to-end **full-stack applications**
+- **AI / ML systems** with real-world deployment focus
+- Clean APIs, scalable architectures, and intuitive UIs
 
 ---
 
-## 📫 Contact
-
-📧 **Email:** surya3625a@gmail.com  
-📍 **Location:** Chennai, India  
-
-<!-- BOTTOM WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
