@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm Surya Sivakumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20%26%20Full-Stack%20Developer;CSE%20Undergraduate;Building%20Production-Ready%20Systems;Turning%20Ideas%20into%20Working%20Products&center=true&width=900&height=45"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software%20%26%20Full-Stack%20Developer;CSE%20Undergraduate;Building%20Production-Ready%20Systems;AI%20%7C%20ML%20%7C%20Web%20Engineering;Turning%20Ideas%20into%20Deployed%20Products&center=true&width=900&height=45"/>
 </p>
 
 <p align="center">
@@ -35,19 +35,25 @@
 
 ## 🚀 About Me
 
-- Software and full-stack developer focused on building **clean, scalable, production-ready applications**
-- Strong experience in **backend API development**, **database-driven systems**, and **modern frontend UI**
-- Comfortable taking a project from **idea → architecture → implementation → deployment**
-- Interested in solving **real-world, high-impact problems** using practical engineering
+- Software & full-stack developer who **builds, ships, and maintains real products**
+- Strong focus on **backend systems, APIs, databases, and AI-powered applications**
+- Experienced in taking ideas from **problem definition → system design → deployment**
+- I don’t just build demos — I build **production-grade systems**
 
 ---
 
 ## 🧠 Experience & Training
 
-- **AI / ML Trainee (Project-Based)**  
-  Hands-on experience building end-to-end applications combining machine learning models with full-stack web interfaces.
+- **AI / ML Trainee (Project-Based)**
+  - Built end-to-end AI systems integrated with modern web applications
+  - Worked with ML pipelines, model evaluation, and deployment-ready architectures
 
-- Built and deployed **multiple full-stack systems** involving APIs, databases, authentication, and dashboards.
+- Designed and implemented **multiple full-stack applications** with:
+  - Authentication
+  - REST APIs
+  - Databases
+  - Dashboards
+  - ML inference pipelines
 
 ---
 
@@ -55,35 +61,52 @@
 
 **Languages:** Python, JavaScript, Java, HTML, CSS  
 **Frontend:** React, Tailwind CSS  
-**Backend:** FastAPI  
+**Backend:** FastAPI, Flask  
 **Databases:** PostgreSQL, MySQL, SQLite, Supabase  
+**AI / ML:** PyTorch, scikit-learn, NLP, Computer Vision  
 **Tools:** Git, GitHub  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🛡️ SentinelAI – AI Governance & Accountability Platform
-- Designed and built a full-stack platform to **audit, monitor, and evaluate deployed ML systems**
-- Implemented backend APIs with FastAPI and an interactive React dashboard for risk and system health tracking
+### 💗 VibeCheck — AI Sentiment Analysis Platform
+- Full-stack ML system for **real-time sentiment analysis** of social media text
+- Classical ML pipeline using **TF-IDF + Logistic Regression**
+- Features batch CSV analysis, analytics dashboard, chatbot assistant, and history tracking
+- Built with **FastAPI backend** and **React (Vite) frontend**
 
-### 🔍 TraceOn AI – Missing Person Identification System
-- Developed a face recognition system for identifying individuals in images and videos
-- Built FastAPI backend services integrated with a responsive React frontend
+### 🏥 MediVision AI — Medical Image Classification
+- Deep learning system for **chest X-ray diagnosis (Normal vs Pneumonia)**
+- Custom **MediVisionNet** architecture:
+  - EfficientNet-B0 backbone
+  - SE blocks + CBAM attention
+- Includes confidence scoring, PDF reports, metrics dashboard, and cloud-ready ONNX export
+- Built with **PyTorch + Flask**, production-oriented design
 
-➡️ *More production-grade projects in progress*
+### 🛡️ SentinelAI — AI Governance & Risk Monitoring
+- Platform for auditing and monitoring deployed ML systems
+- Tracks model health, risk indicators, and system reliability
+- FastAPI backend with React-based dashboard
+
+### 🔍 TraceOn AI — Missing Person Identification System
+- Face recognition system for identifying individuals in images and videos
+- Backend ML inference services with FastAPI
+- Integrated responsive frontend for real-world usage
+
+➡️ *More production-grade systems under active development*
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryaSivakumar111&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaSivakumar111&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SuryaSivakumar111&theme=tokyonight"/>
 </p>
 
 ---
