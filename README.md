@@ -118,3 +118,11 @@
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+
+## 📜 Certificates
+
+- **AI Internship – Mindenuous Pvt. Ltd. (Jul–Aug 2025)**  
+  [View Certificate](./certificates/Mindenuous_AI_Internship_Certificate.pdf)
+
+- **AI Training – Mindenuous Pvt. Ltd. (Jun–Jul 2025)**  
+  [View Certificate](./certificates/Mindenuous_AI_Training_Certificate.pdf)
